@@ -58,7 +58,7 @@
 
 ### 🚀 Öne Çıkan Projelerim
 
-Projelerimin üzerine tıklayarak ilgili GitHub deposuna veya canlı demoya (eğer varsa) ulaşabilirsiniz.
+Projelerimin üzerine tıklayarak ilgili GitHub deposuna ulaşabilirsiniz.
 
 <details>
   <summary><strong>Gelişmiş E-Ticaret Platformu</strong> (Tıklayın)</summary>
@@ -87,7 +87,7 @@ Projelerimin üzerine tıklayarak ilgili GitHub deposuna veya canlı demoya (eğ
   > Unity oyun motoru ve C# dili kullanılarak geliştirilmiş basit bir Kule Savunma (Tower Defense) oyunu.
   
   * **Teknolojiler:** Unity, C#.
-  * **[GitHub Reposu ➡️]([https://github.com/Aiuqs/Tower-Def])**
+  * **[GitHub Reposu ➡️][https://github.com/Aiuqs/Tower-Def]**
 
 </details>
 
@@ -95,7 +95,6 @@ Projelerimin üzerine tıklayarak ilgili GitHub deposuna veya canlı demoya (eğ
 
 ### 📊 GitHub İstatistiklerim
 
-(Bu istatistiklerin görünmesi için kullanıcı adınızı doğru girdiğinizden emin olun)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[Aiuqs]&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Samed Kurukaya GitHub İstatistikleri"/>
