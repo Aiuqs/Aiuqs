@@ -66,8 +66,8 @@ Projelerimin üzerine tıklayarak ilgili GitHub deposuna veya canlı demoya (eğ
   > ASP.NET Core MVC, Entity Framework Core ve C# kullanarak geliştirdiğim tam fonksiyonel bir e-ticaret sitesi. Proje; ürün yönetimi, sepet işlemleri, sipariş takibi ve kullanıcı rollendirme (admin, kullanıcı) gibi modülleri içermektedir.
   
   * **Özellikler:** Responsive tasarım, SEO uyumlu URL yapısı, admin paneli üzerinden stok ve sipariş yönetimi.
-  * **Teknolojiler:** C#, ASP.NET Core MVC, EF Core, MS SQL, HTML/CSS.
-  * **[GitHub Reposu ➡️]([PROJE_LINKINIZI_EKLEYİN])** * **[Canlı Demo ➡️]([PROJE_LINKINIZI_EKLEYİN])** *(Varsa ekleyin)*
+  * **Teknolojiler:** C#, ASP.NET Core MVC, MS SQL, HTML/CSS.
+  * **[GitHub Reposu ➡️]([https://github.com/Aiuqs/ETrade])**
 
 </details>
 
@@ -80,14 +80,14 @@ Projelerimin üzerine tıklayarak ilgili GitHub deposuna veya canlı demoya (eğ
   * **Teknolojiler:** .NET Core MVC, EF Core, C#, API Entegrasyonları.
 
 </details>
-
+*/
 <details>
   <summary><strong>Tower Defense Oyunu (Unity)</strong> (Tıklayın)</summary>
   
   > Unity oyun motoru ve C# dili kullanılarak geliştirilmiş basit bir Kule Savunma (Tower Defense) oyunu.
   
   * **Teknolojiler:** Unity, C#.
-  * **[GitHub Reposu ➡️]([PROJE_LINKINIZI_EKLEYİN])**
+  * **[GitHub Reposu ➡️]([https://github.com/Aiuqs/Tower-Def])**
 
 </details>
 
