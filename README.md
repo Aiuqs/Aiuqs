@@ -67,7 +67,7 @@ Projelerimin üzerine tıklayarak ilgili GitHub deposuna veya canlı demoya (eğ
   
   * **Özellikler:** Responsive tasarım, SEO uyumlu URL yapısı, admin paneli üzerinden stok ve sipariş yönetimi.
   * **Teknolojiler:** C#, ASP.NET Core MVC, MS SQL, HTML/CSS.
-  * **[GitHub Reposu ➡️]([https://github.com/Aiuqs/ETrade])**
+  * **[GitHub Reposu ➡️]([(https://github.com/Aiuqs/ETrade)])**
 
 </details>
 
